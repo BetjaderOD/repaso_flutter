@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537322672223",
+    "project_id": "restaurante-bb8ec",
+    "storage_bucket": "restaurante-bb8ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537322672223:android:2b8a695d71206918bccbea",
+        "android_client_info": {
+          "package_name": "com.example.finanzas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcegLelPc_6i9UctmXUfL5HJqrnFptmr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537322672223:android:5fe4c92efa6fa2aabccbea",
+        "android_client_info": {
+          "package_name": "utez.edu.mx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcegLelPc_6i9UctmXUfL5HJqrnFptmr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
